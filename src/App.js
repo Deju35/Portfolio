@@ -13,7 +13,8 @@ function App() {
       <About />
       <Portfolio />
       <Skills />
-      <Contact />
+      <Contact />//last component 
+       <fibrosis>
       
     </div>
   );
